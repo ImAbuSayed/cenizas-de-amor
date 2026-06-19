@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/cenizas-de-amor/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Cenizas de amor](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/cenizas-de-amor/) |
+| **Get License** | [Request Licensing for Cenizas de amor](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/cenizas-de-amor/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Quiero perderme en el humo de tu piel esta noche
+> Tus ojos me llaman, chula, sin hacer reproche
+> Cenizas de amor cayendo, la pista está ardiendo
+> Baby, tú y yo en lo oscuro, el mundo se está escondiendo
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
