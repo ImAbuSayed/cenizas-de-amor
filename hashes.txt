@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Cenizas de amor
+
+This log tracks the cryptographic history and versioning for the song **Cenizas de amor** (cenizas-de-amor).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-19T17:21:33.112042 | `v1` | `51678479ca89a81081a366a1ea3088f6cf608d7b28bf4dff54700c6e2d9eed22` | `b579e850b6690b09790e5f2fc712ae986b8377ab7d3ad7ac81a40a3e5894ee59` | `2026-06-19_cenizas-de-amor-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
